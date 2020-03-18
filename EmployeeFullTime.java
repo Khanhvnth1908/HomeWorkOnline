@@ -15,12 +15,12 @@ public class EmployeeFullTime extends SalaryPolicy{
     private float rate;
     Scanner src = new Scanner(System.in);
     
+    
     public EmployeeFullTime(){
         
     }
     
-    public EmployeeFullTime(float rate, float baseSalary) {
-        super(baseSalary);
+    public EmployeeFullTime(float rate) {
         this.rate = rate;
     }
 

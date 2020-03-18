@@ -13,9 +13,7 @@ public class TestSalary {
        public static void main(String[] args) {
            
         System.out.println("\n===EmployeeFullTime====");   
-        EmployeeFullTime f1 = new EmployeeFullTime();
-        f1.setRate();
-        f1.setBaseSalary();
+        EmployeeFullTime f1 = new EmployeeFullTime
         System.out.println("Salary of EmployeePartTime = " + f1.getSalary());
         
         

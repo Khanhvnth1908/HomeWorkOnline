@@ -28,9 +28,8 @@ public class EmployeePartTime extends SalaryPolicy{
         return rate;
     }
 
-    public void setRate() {
-        System.out.print("Nhap rate: " );
-        rate = src.nextFloat();
+    public void setRate(float rate) {
+        this.rate = rate;
     }
     
     @Override
