@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT xmlns = "http://www.starpowder.com/dtd/">
+    <CUSTOMER>
+        <NAME>
+            <LASTNAME>KHANH</LASTNAME>
+            <LASTNAME>VUONG</LASTNAME>
+        </NAME>
+        <ORDER>
+            <ITEM>
+                <PRODUCTS>ORANGE</PRODUCTS>
+                <NUMBER>6</NUMBER>
+                <PRICE>$3.5</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCTS>MILK</PRODUCTS>
+                <NUMBER>13</NUMBER>
+                <PRICE>$5</PRICE>
+            </ITEM>
+        </ORDER>
+    </CUSTOMER>
+    <CUSTOMER>
+        <NAME>
+            <LASTNAME>CHI</LASTNAME>
+            <LASTNAME>PHAM</LASTNAME>
+        </NAME>
+        <ORDER>
+            <ITEM>
+                <PRODUCTS>MEET</PRODUCTS>
+                <NUMBER>6</NUMBER>
+                <PRICE>$3.5</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCTS>BREAD</PRODUCTS>
+                <NUMBER>13</NUMBER>
+                <PRICE>$5</PRICE>
+            </ITEM>
+        </ORDER>
+    </CUSTOMER>
+</DOCUMENT>

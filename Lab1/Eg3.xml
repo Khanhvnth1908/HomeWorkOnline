@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes" ?>
+<Document xmlns="">
+    <employee>
+        <name>Frank</name>
+        <position>Chef</position>
+    </employee>
+    <employee>
+        <name>Ronnie</name>
+        <position>Chef</position>
+    </employee>
+</Document>
