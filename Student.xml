@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE FPTAPTECH SYSTEM "Student.dtd">
+<FPTAPTECH>
+    <STUDENTS SEX="Female">
+        <NAME>
+            <FISTNAME>Chi</FISTNAME>
+            <LASTNAME>Pham</LASTNAME>
+        </NAME>
+        <AGE>17</AGE>
+    </STUDENTS>
+    <STUDENTS SEX="Female">
+        <NAME>
+            <FISTNAME>Quan</FISTNAME>
+            <LASTNAME>Vuong</LASTNAME>
+        </NAME>
+        <AGE>22</AGE>
+    </STUDENTS>
+    <STUDENTS SEX="Male">
+        <NAME>
+            <FISTNAME>Khanh</FISTNAME>
+            <LASTNAME>Vuong</LASTNAME>
+        </NAME>
+        <AGE>18</AGE>
+    </STUDENTS>
+</FPTAPTECH>
